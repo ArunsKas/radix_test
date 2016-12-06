@@ -1,0 +1,45 @@
+{
+  "name": "radix_test1",
+  "description": "A theme based on Radix.",
+  "browserSyncProxy" : "http://drupal-7-51.dd:8083",
+  "bowerDir": "./bower_components",
+  "css": {
+    "file" : "radix_test1.style.scss",
+    "src": [
+      "scss/**/*.scss"
+    ],
+    "dest": "assets/css",
+    "includePaths": [
+      "./bower_components/bootstrap-sass/assets/stylesheets",
+      "./bower_components/font-awesome/scss"
+    ]
+  },
+  "js": {
+    "file" : "radix_test1.script.js",
+    "src": [
+      "assets/js/**/*.js"
+    ],
+    "dest": "assets/js"
+  },
+  "images": {
+    "src": [
+      "assets/images/**/*"
+    ],
+    "dest": "assets/images/"
+  },
+  "fonts": {
+    "src": [
+      "./bower_components/font-awesome/fonts/**.*"
+    ],
+    "dest": "./assets/fonts/"
+  },
+  "styleGuide": {
+	"source": [
+      "scss"
+	],
+	"css": [
+	  "../../assets/css/radix_test1.style.css"
+	],
+	"destination": "styleguide/dist/"
+  }
+}
