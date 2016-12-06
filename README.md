@@ -17,3 +17,7 @@ Update `browserSyncProxy` in **config.json**.
 
 #### Step 5
 Run the following command to compile Sass and watch for changes: `gulp`.
+
+#### My Remarks
+I need to install gulp with command `node install -g gulp`.
+In Windows 7 environment I use latest (2.11.0) 64-bit version of Git for Windows.
