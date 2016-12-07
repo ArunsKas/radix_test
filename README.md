@@ -24,16 +24,16 @@ In Windows 7 environment I use latest (2.11.0) 64-bit version of Git for Windows
 You need the drupal module link_css to make browserSync working!
 
 #### More about Gulp, KSS and drupal theming
-https://www.chenhuijing.com/blog/drupal-101-theming-with-gulp/
-https://css-tricks.com/gulp-for-beginners/
-https://github.com/SyneticNL/Gulp-for-Drupal
-https://github.com/kss-node/kss/blob/spec/SPEC.md
-https://github.com/philj/gulp-kss
-https://github.com/kss-node/kss-node/issues/161#issuecomment-222281133
-https://github.com/WebDevLuke/kss-orion-theme
-Guru - Drupal 8 theme with extreem Gulp integration: https://github.com/digitaldonkey/guru
-Hitchhiker - another Drupal theme with Gulp integration: https://www.drupal.org/sandbox/legaudinier/2704379
-Zen
+* https://www.chenhuijing.com/blog/drupal-101-theming-with-gulp/
+* https://css-tricks.com/gulp-for-beginners/
+* https://github.com/SyneticNL/Gulp-for-Drupal
+* https://github.com/kss-node/kss/blob/spec/SPEC.md
+* https://github.com/philj/gulp-kss
+* https://github.com/kss-node/kss-node/issues/161#issuecomment-222281133
+* https://github.com/WebDevLuke/kss-orion-theme
+* Guru - Drupal 8 theme with extreem Gulp integration: https://github.com/digitaldonkey/guru
+* Hitchhiker - another Drupal theme with Gulp integration: https://www.drupal.org/sandbox/legaudinier/2704379
+* Zen
 
 
 #### Living style sheet with KSS example: 
