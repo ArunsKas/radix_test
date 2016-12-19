@@ -19,7 +19,7 @@ Update `browserSyncProxy` in **config.json**.
 Run the following command to compile Sass and watch for changes: `gulp`.
 
 #### My Remarks
-I need to install gulp with command `node install -g gulp`.
+I need to install gulp (after step 4) with command `node install -g gulp`.
 In Windows 7 environment I use latest (2.11.0) 64-bit version of Git for Windows.
 You need the drupal module link_css to make browserSync working!
 
